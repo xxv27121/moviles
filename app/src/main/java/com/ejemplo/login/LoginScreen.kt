@@ -1,5 +1,4 @@
 package com.ejemplo.login
-jnio
 import android.util.Patterns
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.layout.Arrangement
