@@ -23,6 +23,7 @@
     <string name="acepto_terminos">Acepto los términos y condiciones</string>
     <string name="boton_crear_cuenta">CREAR CUENTA</string>
     <string name="ya_tienes_cuenta">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="registro">¡No tienes cuenta? Regístrate</string>
     <string name="volver">Volver</string>
 
     <!-- Home -->
