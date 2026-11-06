@@ -100,7 +100,6 @@ fun AppNavGraph() {
             // La factory construye el ViewModel con el repositorio.
             val factory = remember { VideojuegoViewModelFactory(repository) }
             val viewModel: VideojuegoViewModel = viewModel(factory = factory)
-
             HomeScreen(
                 viewModel = viewModel,
                 onLogout = {
